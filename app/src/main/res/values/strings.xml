@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flyer Links</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_superStore">Super Store</string>
+    <string name="action_saveOnFood">Save on food</string>
+    <string name="action_walmart">Walmart</string>
+    <string name="title_activity_web_view">Web View Activity</string>
+</resources>
